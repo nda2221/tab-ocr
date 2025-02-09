@@ -16,5 +16,5 @@
 ```
 ## Run
 ```
-#python main.py IMAGE.png ru 0
+#python main.py IMAGE.png rus 0
 ```
